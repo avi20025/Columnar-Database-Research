@@ -1,0 +1,39 @@
+Run 1
+DFE decode: 2291 ns
+Reg int decode: 1375 ns
+
+Run 2
+DFE decode: 2167 ns
+Reg int decode: 1042 ns
+
+Run 3
+DFE decode: 1709 ns
+Reg int decode: 1083 ns
+
+Run 4
+DFE decode: 2375 ns
+Reg int decode: 1375 ns
+
+Run 5
+DFE decode: 2375 ns
+Reg int decode: 1292 ns
+
+Run 6
+DFE decode: 2292 ns
+Reg int decode: 1209 ns
+
+Run 7
+DFE decode: 2125 ns
+Reg int decode: 1417 ns
+
+Run 8
+DFE decode: 1959 ns
+Reg int decode: 1625 ns
+
+Run 9
+DFE decode: 2417 ns
+Reg int decode: 1417 ns
+
+Run 10
+DFE decode: 2333 ns
+Reg int decode: 1500 ns
